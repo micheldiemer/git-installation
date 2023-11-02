@@ -1,3 +1,3 @@
 # Installation de Git
 
-Voir git-installation.md
+Voir [git-installation.md](git-installation.md)
