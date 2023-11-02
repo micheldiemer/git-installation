@@ -146,6 +146,8 @@ Add-WindowsCapability -Online -Name OpenSSH.Client
 
 Télécharger la dernière version de l'installateur 64-bit depuis [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
+![Alt text](image-49.png)
+
 Cocher les options, surtout `Add Git Bash Profile to Windows Terminal`
 
 ![Alt text](image-4.png)
