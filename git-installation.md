@@ -144,7 +144,7 @@ Add-WindowsCapability -Online -Name OpenSSH.Client
 
 ### Client git : téléchargement et installation
 
-Télécharger la dernière version de l'installateur 64-bit depuis `https://git-scm.com/download/win`
+Télécharger la dernière version de l'installateur 64-bit depuis `<https://git-scm.com/download/win>`
 
 Cocher les options, surtout `Add Git Bash Profile to Windows Terminal`
 
@@ -207,7 +207,7 @@ Pour les fonctionnalités expérimentales, vous pouvez les activer ou non.
 
 ## Installation de Git sous Linux / macOS
 
-Aller sur `https://git-scm.com/downloads` et suivre les instructions
+Aller sur `<https://git-scm.com/downloads>` et suivre les instructions
 
 ## Configuration (bash ou git bash)
 
