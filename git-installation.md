@@ -67,6 +67,13 @@ Télécharger et installer `Visual Studio Code` (pas totalement Open Source) ou 
 - [VSCodium](https://vscodium.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 
+Attention, les extensions suivantes ne sont pas disponibles dans VSCodium :
+
+- VS Code Remote Development extensions
+- Live Share
+
+Cf `https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code` pour plus de détails.
+
 `Épingler à la barre des tâches`
 
 ![Alt text](image-23.png)
