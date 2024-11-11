@@ -242,11 +242,13 @@ nano ~/.gitignore_global
 Contenu du fichier `.gitignore_global` :
 
 ```txt
-*~
+~*
 .*.swp
 .DS_Store
 desktop.ini
 *.tmp
+*Zone.Identifier
+Thumbs.db
 ```
 
 `Ctrl + S` : Enregistrer
